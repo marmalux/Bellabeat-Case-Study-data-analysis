@@ -12,4 +12,4 @@ Bellabeat is a tech manufacturer with health products for women, the company is 
 
 ![User_activity](/images/user_activity.png)
 
-![User_activity](/images/sleep_health.png)
+![user sleep](/images/sleep_health.png)

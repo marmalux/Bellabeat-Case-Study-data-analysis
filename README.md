@@ -10,3 +10,4 @@ Bellabeat is a tech manufacturer with health products for women, the company is 
 * library tidyverse (dplyr,ggplot)
 ## Findings
 
+![User_activity](/images/user_activity.png)
